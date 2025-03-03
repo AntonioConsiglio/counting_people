@@ -1,0 +1,8 @@
+datasets/
+newData/
+runs/
+*.avi
+*.mp4
+*.pt
+*.mov
+*.png

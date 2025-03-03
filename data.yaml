@@ -1,0 +1,5 @@
+names:
+- head
+nc: 1
+train: ./data\\train\\images
+val: ./data\\validation\\images
